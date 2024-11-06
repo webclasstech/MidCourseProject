@@ -6,7 +6,7 @@ https://youtu.be/ZObzpGAWaXY?si=B-Vj0LdQuY6m_vlj
    - back
    - front
 
-## in front folder: react Project
+## FrontEnd: React project
 
 course help: https://reactslides.netlify.app/reactclass1
 
@@ -14,7 +14,7 @@ course help: https://reactslides.netlify.app/reactclass1
 
 1. npm start
 
-## in back back: NodeJs Project
+## BackEnd: NodeJs project
 
 0. cd back/
 
