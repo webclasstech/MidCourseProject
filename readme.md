@@ -1,4 +1,5 @@
-#Mid Course Project
+# Mid Course Project
+
 https://youtu.be/ZObzpGAWaXY?si=B-Vj0LdQuY6m_vlj
 
 1. create 2 folders:
