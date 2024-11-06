@@ -39,7 +39,7 @@ export const Login = () => {
       <input id="uname" type="text" placeholder="username" />
       <input id="pass" type="text" placeholder="password" />
       <input type="submit" value={"send"} onClick={userClickedBtn} />
-      {isLoginDetailsCorrect && <h3>{name}</h3>}
+      <h3>{name}</h3>
     </div>
   );
 };

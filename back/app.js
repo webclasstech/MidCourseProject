@@ -22,7 +22,7 @@ app.post("/login", (req, res) => {
     }
     res.send(theResponseObj);
 })
-app.use(express.static('public'));
+app.use(express.static('../front/build/static'));
 //=========================
 app.listen(3001, function () {
     console.log('My app is listening on port 3001!');
